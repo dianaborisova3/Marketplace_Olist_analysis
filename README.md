@@ -1,4 +1,4 @@
-## Marketplace_Olist_analysis
+## Анализ Retention и Product/Market Fit для маркетплейса Olist
 
 [посмотреть ноутбук](https://github.com/dianaborisova3/Marketplace_Olist_analysis/blob/main/Marketplace_Olist_analysis.ipynb)
 
